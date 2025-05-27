@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h2 align="center">🎇 Resume 🎇</h2>
-<p align="center">Hi, my name is bitvise, I develop with Java language, I've been working with Spigot/Bukkit API for 1 year, I write clean and optimized code and most of the resources created in my git are free for everyone.</p>
+<p align="center">Hi, my name is dosantos, I develop with Java language, I've been working with Spigot/Bukkit API for 3 year, I write clean and optimized code and most of the resources created in my git are free for everyone.</p>
 
 <h2 align="center">✨ Technology Stack ✨</h2>
 
